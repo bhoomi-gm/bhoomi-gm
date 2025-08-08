@@ -59,6 +59,9 @@ You can explore my work here: [**GitHub Repositories**](https://github.com/bhoom
 💼 **LinkedIn:** [Bhoomika G M](https://www.linkedin.com/in/bhoomika-g-m-b598052a8/)  
 📱 **Phone:** +91 89044 68330  
 
+## 🎯 Fun Fact  
+I can spend hours fixing a bug… only to realize it was a missing semicolon. 😅  
+
 ---
 
 

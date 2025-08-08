@@ -48,7 +48,7 @@ You can explore my work here:https://github.com/bhoomi-gm?tab=repositories
 📱 **Phone:** +91 89044 68330  
 
 ## 🎯 Fun Fact  
-I can spend hours fixing a bug… only to realize it was a missing semicolon. 😅  
+My favorite programming mantra: “It works on my machine". 🤷‍♀💻 
 
 ---
 

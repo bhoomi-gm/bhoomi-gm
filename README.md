@@ -37,7 +37,8 @@ I believe in achieving excellence through **collaboration, creativity, and a res
 ---
 
 ## 🚀 Projects  
-You can explore my work here: [**GitHub Repositories**](https://github.com/bhoomi-gm)  
+You can explore my work here:https://github.com/bhoomi-gm?tab=repositories
+ 
 
 ---
 
